@@ -52,6 +52,12 @@ github "ruby",       "6.7.2"
 github "stdlib",     "4.1.0", :repo => "puppetlabs/puppetlabs-stdlib"
 github "sudo",       "1.0.0"
 github "xquartz",    "1.1.0"
+github "mysql",      "1.0.1"
+github "firefox",        "1.0.5"
+github "chrome",         "1.1.0"
+github "gitx",           "1.2.0"
+github "tower",          "1.0.0"
+
 
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.
